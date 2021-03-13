@@ -1,5 +1,5 @@
 # Html Basic Things
-Html Basico - Ejecutar el [index.html](https://www.w3schools.com/html/)
+Html Basico - Ejecutar el [index.html](https://github.com/juancr5/Html_Basic_Things/blob/main/Index.html)
 
 Crear una página html que contenga una lista ordenada de por lo menos 3 grupos
 musicales reconocidos 

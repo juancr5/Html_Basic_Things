@@ -1,0 +1,56 @@
+/*-Archivo de estilo CSS-*/
+*
+{
+    margin: 1px;
+    padding: 0;
+}
+
+body
+{
+    background: #e6e6e6;
+}
+
+
+h1
+{
+    background: #000;
+    color: #fff;
+    font-family: "Roboto", serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.imagen
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*Tabla*/
+table 
+{
+    font-family: arial, sans-serif;
+    border-collapse: collapse; /*or Initial*/
+}
+
+td, th {
+    border: 3px solid #000000; /*Tamaño Borde y Color*/
+    text-align: left;
+    padding: 10px;    /*Espacio Entre Texto*/
+}
+
+footer
+{
+    background: #000;
+    color: #fff;
+    clear: both;
+    padding: 10px 0px;
+}
+
+div a
+{
+    margin-left: 3px; 
+    margin-right: : 3px; 
+}

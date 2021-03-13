@@ -1,5 +1,5 @@
 # Html Basic Things
-Html Basico
+Html Basico - Ejecutar el [index.html](https://www.w3schools.com/html/)
 
 Crear una página html que contenga una lista ordenada de por lo menos 3 grupos
 musicales reconocidos 
@@ -23,7 +23,7 @@ Especificaciones
 • Agrupar el contenido por bloques usando HTML Blocks <br/>
 
 
- Referencias 
+ Referencias:
  
  ![alt tag](https://github.com/juancr5/Html_Basic_Things/blob/main/Resources/W3Schools_logo.png)<br/>
  [w3schools](https://www.w3schools.com/html/)

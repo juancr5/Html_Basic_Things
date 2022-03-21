@@ -5,6 +5,8 @@ Html Basico - Ejecutar el archivo: [index.html](https://github.com/juancr5/Html_
 Crear una página html que contenga una lista ordenada de por lo menos 3 grupos
 musicales reconocidos 
 
+ ![alt tag](https://github.com/juancr5/Html_Basic_Things/blob/main/Images/Index.jpg)<br/>
+
 Funciones:
 
 - Cada uno de los grupos debe permitir hacer una redirección a una página que muestre una corta Biografía del grupo. <br/>
